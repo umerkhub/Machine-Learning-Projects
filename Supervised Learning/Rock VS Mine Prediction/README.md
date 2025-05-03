@@ -27,7 +27,6 @@ Using 60 numeric attributes representing energy levels returned by sonar signals
 
 2. **Data Preprocessing**  
    - Label encoding (R=0, M=1)  
-   - Feature scaling (StandardScaler)
 
 3. **Model Building**  
    - Used Logistic Regression for classification  
@@ -49,8 +48,16 @@ Using 60 numeric attributes representing energy levels returned by sonar signals
 **Conclusion**: Model is reasonably accurate and effective for classifying sonar signals.
 
 
+## 🧠 Future Improvements
+- Try ensemble models like Random Forest or Gradient Boosting  
+- Apply dimensionality reduction (PCA) for performance  
+- Create a user interface for input and prediction  
+
+
+
 ## 📌 Key Skills Applied
 `Supervised Learning` • `Classification` • `Data Preprocessing` • `Model Evaluation` • `Logistic Regression` • `Scikit-learn` • `Data Visualization`
+
 
 ## 👨‍💻 Author
 
