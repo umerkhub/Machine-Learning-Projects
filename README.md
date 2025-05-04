@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Machine Learning Projects Portfolio
 
 Welcome to my Machine Learning Projects repository! This folder contains various projects that showcase my hands-on experience with core ML algorithms, real-world datasets, and problem-solving using Python and its data science ecosystem.
@@ -65,3 +66,6 @@ Welcome to my Machine Learning Projects repository! This folder contains various
    ```bash
    git clone https://github.com/yourusername/ml-projects.git
    cd ml-projects
+=======
+# Machine-Learning-Projects
+>>>>>>> d8684f6279344e24fc230d3823a027d83f32e213
